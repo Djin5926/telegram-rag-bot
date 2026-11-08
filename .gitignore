@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Окружение и секреты
+.env
+
+# Данные приложения (загруженные PDF)
+data/
+
+# IDE
+.idea/
+.vscode/

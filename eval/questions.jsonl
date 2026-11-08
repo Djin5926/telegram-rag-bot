@@ -1,0 +1,14 @@
+{"question": "Какой уровень доступности (SLA) гарантирует договор?", "expected_answer": "99,9%", "pdf": "samples/sample.pdf"}
+{"question": "Какова ежемесячная стоимость услуг по договору?", "expected_answer": "145 000 рублей", "pdf": "samples/sample.pdf"}
+{"question": "До какого числа каждого месяца необходимо оплачивать услуги?", "expected_answer": "до 5-го числа", "pdf": "samples/sample.pdf"}
+{"question": "До какой даты действует договор?", "expected_answer": "до 31 марта 2027 года", "pdf": "samples/sample.pdf"}
+{"question": "Какое время реакции на инциденты критического уровня?", "expected_answer": "30 минут", "pdf": "samples/sample.pdf"}
+{"question": "Сколько дней хранятся резервные копии?", "expected_answer": "30 календарных дней", "pdf": "samples/sample.pdf"}
+{"question": "Какова неустойка за каждый полный час простоя?", "expected_answer": "5% месячной платы", "pdf": "samples/sample.pdf"}
+{"question": "Каков максимальный совокупный размер неустойки за простой?", "expected_answer": "50% месячной платы", "pdf": "samples/sample.pdf"}
+{"question": "Какой штраф уплачивает заказчик при досрочном расторжении по своей инициативе?", "expected_answer": "10% стоимости услуг за оставшийся период", "pdf": "samples/sample.pdf"}
+{"question": "По какому федеральному закону обрабатываются персональные данные?", "expected_answer": "152-ФЗ", "pdf": "samples/sample.pdf"}
+{"question": "На территории какой страны размещаются серверы с данными заказчика?", "expected_answer": "Российской Федерации", "pdf": "samples/sample.pdf"}
+{"question": "В какое время ежедневно создаются резервные копии?", "expected_answer": "в 03:00", "pdf": "samples/sample.pdf"}
+{"question": "За сколько календарных дней нужно уведомить о расторжении договора?", "expected_answer": "за 30 календарных дней", "pdf": "samples/sample.pdf"}
+{"question": "В течение какого срока рассматриваются претензии?", "expected_answer": "10 рабочих дней", "pdf": "samples/sample.pdf"}
